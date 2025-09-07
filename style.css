@@ -21,7 +21,7 @@
     }
     
     .hero{
-        background-image:url("");
+        background-image:url("Images/Telescope_sky_background.webp");
         background-repeat: no-repeat;
         background-size: cover;
         height: 600px;
@@ -398,4 +398,5 @@
         }
 
     }
+
 
